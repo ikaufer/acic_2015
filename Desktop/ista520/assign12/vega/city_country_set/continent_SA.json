@@ -1,0 +1,958 @@
+[
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "652090"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "41526"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "800"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "28748"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "2.38174e+06"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "199"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "468"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.2467e+06"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "96"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "442"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "83600"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "2.7804e+06"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "29800"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "193"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "7.74122e+06"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "86600"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "13878"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "694"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "143998"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "430"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "30518"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "22696"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "112622"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "53"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "47000"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "1.09858e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "51197"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "581730"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "8.5474e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "242900"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "151"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "5765"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "110994"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "274000"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "27834"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "264"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "756626"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "236"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "51100"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "23200"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "751"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "48511"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "283561"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.00145e+06"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "21041"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "117600"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "505992"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.22104e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.1043e+06"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "12173"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "18274"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "300000"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "1399"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "267668"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "11295"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "69700"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "238533"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "6"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "344"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "2.16609e+06"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "1705"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "549"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "108889"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "245857"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "36125"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "214969"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "27750"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "112088"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "1075"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "62422"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "1.90457e+06"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "3.28726e+06"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "438317"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "1.6482e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "70273"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "103000"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "21056"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "301316"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "14874"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "83859"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "10990"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "377829"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "527968"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "88946"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "135"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "102173"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "181035"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "475442"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "9.97061e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "4033"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "2.7249e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "580367"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "622984"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "9.5729e+06"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "199900"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "726"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "1.13891e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1862"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "342000"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "2.34486e+06"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "14"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "120538"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "99434"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "131626"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "56538"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "110861"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "17818"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "9251"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "236800"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "64589"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "30355"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "10400"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "111369"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.75954e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "160"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "65301"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "2586"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "266000"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "18"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "587041"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "25713"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "118484"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "298"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "329758"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.24019e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "316"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "446550"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "181"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "1102"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.02552e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "2040"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "373"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "1.9582e+06"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "702"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "33851"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "1.5"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "1.5665e+06"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "102"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "801590"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "676578"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "824292"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "21"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "147181"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "130000"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.267e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "923768"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "260"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "36"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "323877"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "322463"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "309500"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "796095"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "459"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "75517"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "462840"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "406752"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "1.28522e+06"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "49"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "464"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "91982"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "8875"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "323250"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "28051"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "11000"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "551500"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "90000"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "4000"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "2510"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "238391"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "26338"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "449964"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "314"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "261"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "622"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "388"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "242"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "357022"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "28896"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "752618"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "2831"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "61"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "964"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "2.14969e+06"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "196722"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "455"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "71740"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "618"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "49012"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "20256"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "637657"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "65610"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "2.50581e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "338145"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "163265"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "17364"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "41284"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "185180"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "143100"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "36188"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "883749"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "43094"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "513115"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "56785"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "12"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "650"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "5130"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "1.284e+06"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "78866"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "163610"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "774815"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "488100"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "430"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "26"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "241038"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "603700"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "93030"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "175016"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "18575"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "270534"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "447400"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "207600"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "200"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "12189"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "0.4"
+    }, 
+    {
+        "Continent": "South America", 
+        "SurfaceArea": "912050"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "1.70754e+07"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "331689"
+    }, 
+    {
+        "Continent": "Europe", 
+        "SurfaceArea": "45227"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "9.36352e+06"
+    }, 
+    {
+        "Continent": "North America", 
+        "SurfaceArea": "347"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "390757"
+    }, 
+    {
+        "Continent": "Asia", 
+        "SurfaceArea": "6257"
+    }, 
+    {
+        "Continent": "Antarctica", 
+        "SurfaceArea": "1.312e+07"
+    }, 
+    {
+        "Continent": "Antarctica", 
+        "SurfaceArea": "59"
+    }, 
+    {
+        "Continent": "Africa", 
+        "SurfaceArea": "78"
+    }, 
+    {
+        "Continent": "Antarctica", 
+        "SurfaceArea": "3903"
+    }, 
+    {
+        "Continent": "Antarctica", 
+        "SurfaceArea": "359"
+    }, 
+    {
+        "Continent": "Antarctica", 
+        "SurfaceArea": "7780"
+    }, 
+    {
+        "Continent": "Oceania", 
+        "SurfaceArea": "16"
+    }
+]

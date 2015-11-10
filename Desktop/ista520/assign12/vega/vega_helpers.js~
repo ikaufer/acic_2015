@@ -1,0 +1,11 @@
+function vh() {
+    var result = {};
+
+    return {
+        width: function(x) {
+            if (x === void 0)
+                return result.width;
+            return result.width = x;
+        }
+    };
+};
